@@ -1,4 +1,3 @@
 ip,user,file,hashes,url
-127.0.0.1,david_j,server.exe,4930874f700dd81bff1c0f2ec7a8f55741987e102be8164bdc4aad6ea97062cb,https://drive.google.com/uc?auth_use
-127.0.0.1,david_j,server.exe,69d94240bf1b3dae168934be93d742e2b5e41c2767b4573ccabf3c79c8a017d4,https://drive.google.com/uc?auth_use
-127.0.0.1,david_j,server.exe,b89cc69c63894c4b263be5a7b7390d3f8500a8ed4834882a7282ebca301e528e,https://drive.google.com/uc?auth_use
+127.0.0.1,david_j,server.exe,01f1f23649920e30d510f6ae48e370c82dd57ce0817d12f649615d7188c9b0e2,http://139.28.37.63
+127.0.0.1,david_j,server.exe,7c0e1b2c7bfab05f69cb8f2412e8c6423549ca8d675fcb092c196e6710e6cad6,https://gitlab.com/bliblobla123/testingtesting/-/raw/master/README.md

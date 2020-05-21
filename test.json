@@ -1,5 +1,1 @@
-{
-  "ip":"127.0.0.1",
-  "user":"david_j",
-  "url":"ibm.com"
-}
+{"type": "bundle", "id": "bundle--824b260f-1ed0-44cc-911f-4880e9e61b93", "spec_version": "2.0", "objects": [{"type": "observed-data", "id": "observed-data--988a6be4-d67a-4c1f-9ddb-124c848521c5", "created": "2020-05-21T17:42:06.142Z", "modified": "2020-05-21T17:42:06.142Z", "first_observed": "2020-05-21T12:42:06.140272Z", "last_observed": "2020-05-21T12:42:06.140272Z", "number_observed": 1, "objects": {"0": {"type": "ipv4-addr", "value": "127.0.0.1"}, "1": {"type": "user-account", "user_id": "david_j"}, "2": {"type": "file", "hashes": {"7509e5bda0c762d2bac7f90d758b5b2263fa01ccbc542ab5e3df163be08e6ca9": "google.com"}, "name": "server.exe"}, "3": {"type": "domain-name", "value": "google.com"}}}, {"type": "identity", "id": "identity--b12737e5-aa7c-47fe-aa28-c166156de2f3", "created": "2020-05-21T17:42:06.143Z", "modified": "2020-05-21T17:42:06.143Z", "name": "QRadar", "identity_class": "events"}]}
